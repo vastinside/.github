@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=53BDFF&center=true&vCenter=true&lines=👋+Welcome+to+Vast+Inside+Ltd;🎮+Immersive+Learning+Games;🕶️+XR+Experiences+%7C+VR%2FAR%2FMR;🏟️+CAVE+%26+Multi-Projector+Installations;Built+to+Ship.+Built+to+Scale.)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 # Vast Inside Ltd — Immersive Learning Games & XR Experiences
