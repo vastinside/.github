@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=53BDFF&center=true&vCenter=true&lines=👋+Welcome+to+Vast+Inside+Ltd;🎮+Immersive+Learning+Games;🕶️+XR+Experiences+%7C+VR%2FAR%2FMR;🏟️+CAVE+%26+Multi-Display+Experiences;📱+Web-Based+Controllers+%7C+Cross-Device+Input;🧑‍🤝‍🧑+Multiplayer+Systems+%7C+Shared+Sessions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3200&pause=700&color=53BDFF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+Vast+Inside+Ltd;🎮+Immersive+Learning+Games+%26+Interactive+Experiences;🕶️+XR+Products+%7C+VR%2FAR%2FMR+Production+Builds;🏟️+CAVE+%7C+Multi-Display+%7C+Room-Scale+Immersion;📱+Web-Based+Controllers+%7C+Phone-as-Controller+Workflows;🧑‍🤝‍🧑+Multiplayer+Sessions+%7C+Shared+Live+Experiences)](https://git.io/typing-svg)
+
 
 # Vast Inside Ltd — Immersive Learning Games & XR Experiences
 
