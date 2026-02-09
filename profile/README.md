@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=53BDFF&center=true&vCenter=true&lines=👋+Welcome+to+Vast+Inside+Ltd;🎮+Immersive+Learning+Games;🕶️+XR+Experiences+%7C+VR%2FAR%2FMR;🏟️+CAVE+%26+Multi-Projector+Installations;Built+to+Ship.+Built+to+Scale.)](https://git.io/typing-svg)
-
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=53BDFF&center=true&vCenter=true&lines=👋+Welcome+to+Vast+Inside+Ltd;🎮+Immersive+Learning+Games;🕶️+XR+Experiences+%7C+VR%2FAR%2FMR;🏟️+CAVE+%26+Multi-Display+Experiences;📱+Web-Based+Controllers+%7C+Cross-Device+Input;🧑‍🤝‍🧑+Multiplayer+Systems+%7C+Shared+Sessions)](https://git.io/typing-svg)
 
 # Vast Inside Ltd — Immersive Learning Games & XR Experiences
 
