@@ -1,14 +1,31 @@
 ## Hi there 👋
 
-🚀 What we do
+# Vast Inside Ltd — Immersive Learning Games & XR Experiences
 
-Immersive XR Experiences (Unity / Unreal)
+**Vast Inside Ltd** builds **immersive learning products** and **XR experiences** designed to perform in real environments—classrooms, training spaces, exhibitions, and large-scale immersive rooms.
 
-CAVE & multi-projector environments (Igloo-style setups and beyond)
+- 🌐 Website: https://vastinside.co.uk/
+- 💼 Focus: Immersive learning, XR (VR/AR/MR), interactive 3D, projection-based experiences
+- 🎯 Outcome: High-impact, measurable experiences that ship reliably
 
-Interactive learning tools for colleges, universities, museums, and public sector training
+---
 
-Custom software platforms for content control, multi-user interaction, and show-ready deployment
+## What we build
+
+We operate a product-and-delivery model:
+
+### 1) Immersive Learning Products
+- Scenario-based learning
+- Interactive quizzes & assessments
+- Data-driven progression and outcomes tracking (where applicable)
+
+### 2) XR Experiences
+- VR / AR / MR prototypes and production builds
+- Real-time 3D experiences for education, training, and engagement
+
+### 3) Projection & Room-Scale Immersion
+- Multi-display / room-scale experiences
+- Large-format content pipelines and deployment-ready builds
 <!--
 
 **Here are some ideas to get you started:**
