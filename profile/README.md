@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🚀 What we do
+
+Immersive XR Experiences (Unity / Unreal)
+
+CAVE & multi-projector environments (Igloo-style setups and beyond)
+
+Interactive learning tools for colleges, universities, museums, and public sector training
+
+Custom software platforms for content control, multi-user interaction, and show-ready deployment
 <!--
 
 **Here are some ideas to get you started:**
